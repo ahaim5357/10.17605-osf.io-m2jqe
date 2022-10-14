@@ -1,6 +1,6 @@
 # Expansion on Exploring Common Trends in Online Educational Experiments
 
-[![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2Fosf.io%m2jqe-blue)][doi]
+[![OSF DOI](https://img.shields.io/badge/OSF-10.17605%2Fosf.io%2Fm2jqe-blue)][doi]
 [![Docker](https://img.shields.io/docker/automated/ahaim5357/10.17605-osf.io-m2jqe)][container]
 
 [*Expansion on Exploring Common Trends in Online Educational Experiments*][doi] contains the *50 Experiments+2022* dataset, providing additional information to the *50 Experiments-2021* dataset released with [*Exploring Common Trends in Online Educational Experiments*][odoi]. The expansion contains the raw problem logs associated with the provided experiments and raw student actions prior to the experiment period.
