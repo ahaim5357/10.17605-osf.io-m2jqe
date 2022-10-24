@@ -7,6 +7,8 @@
 
 This project serves as a environment setup for integrating with both datasets by downloading them from their OSF projects ([original][oosf] and [expansion][doi]) and merging them into the same subfolder structure. This also downloads the accompanying documentation and licenses.
 
+This was presented at the [*2022 Conference on Digital Experimentation @ MIT (CODE@MIT)*][code].
+
 ## License
 
 The content of this Open Science Foundation project is licensed under a [Creative Commons Attribute 4.0 International License][cl]. As the dataset is pulled from ASSISTments, this project is compliant under the [ASSISTments Public Data License v0.1][dl].
@@ -125,15 +127,7 @@ py ./env_setup.py -r -n -m
 ### *50 Experiments+2022*
 
 ```
-@misc{50experimentsexpansion,
-  title={Expansion on Exploring Common Trends in Online Educational Experiments},
-  url={osf.io/m2jqe},
-  DOI={10.17605/OSF.IO/M2JQE},
-  publisher={OSF},
-  author={Haim, Aaron and Prihar, Ethan and Shaw, Stacy T and Sales, Adam and Heffernan, Neil T, III},
-  year={2022},
-  month={Oct}
-}
+Haim, A., Prihar, E., Shaw, S. T., Sales, A., & Heffernan, N. T., III. (2022, October 20). Expansion on Exploring Common Trends in Online Educational Experiments. Presented at the 2022 Conference on Digital Experimentation @ MIT (CODE@MIT '22), October 20-21, 2022, Boston, MA, US. Accessible at https://doi.org/10.17605/osf.io/m2jqe
 ```
 
 
@@ -142,6 +136,7 @@ py ./env_setup.py -r -n -m
 [doi]: https://doi.org/10.17605/osf.io/m2jqe
 [odoi]: https://doi.org/10.5281/zenodo.6853041
 [oosf]: https://doi.org/10.17605/osf.io/59shv
+[code]: https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/
 
 [cl]: https://osf.io/qykhb
 [dl]: https://osf.io/s7ufj
